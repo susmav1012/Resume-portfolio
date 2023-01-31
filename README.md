@@ -1,6 +1,6 @@
-                                                  ****************************************************************
-                                                      DEPLOYED LINK : https://susma-portfolio-site.netlify.app/ 
-                                                  ****************************************************************
+                                     ****************************************************************
+                                         DEPLOYED LINK : https://susma-portfolio-site.netlify.app/ 
+                                     ****************************************************************
 
 Resume portfolio website gives a complete information about myself, my projects with GitHub link, my contact links, achievements with proof and my complete resume to the hiring manager or the person who views this website.
 
